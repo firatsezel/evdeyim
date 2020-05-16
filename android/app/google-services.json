@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "398224388387",
+    "firebase_url": "https://evdeyim.firebaseio.com",
+    "project_id": "evdeyim",
+    "storage_bucket": "evdeyim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398224388387:android:09700298feb2e06c259c96",
+        "android_client_info": {
+          "package_name": "com.grimphyco.evdeyim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398224388387-0qqnb7h49caspn8j24mpunrjg0t5hhlb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWUc7Cw8Mw46Tef5NIEL3nUHq_Y4ekJoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398224388387-0qqnb7h49caspn8j24mpunrjg0t5hhlb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
